@@ -1,0 +1,16 @@
+body
+{
+    background-color: #4a9494;
+}
+a
+{
+    color:white;
+}
+html, body, input, select, textarea
+{
+    font-size: 1.05em !important;
+}
+#weatherForecast
+{
+    margin-top: 8%;
+}

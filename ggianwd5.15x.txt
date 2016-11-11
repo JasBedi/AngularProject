@@ -1,0 +1,21 @@
+﻿
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+#
+# Initial commit
+#
+# Changes to be committed:
+#	new file:   app.js
+#	new file:   controllers.js
+#	new file:   custom.js
+#	new file:   directives.js
+#	new file:   forecast.htm
+#	new file:   home.htm
+#	new file:   index.htm
+#	new file:   routes.js
+#	new file:   services.js
+#	new file:   weatherForecastSPA.css
+#	new file:   weatherReport.html
+#
+
