@@ -2,7 +2,7 @@
 weatherApp.directive("weatherReport", function() {
    return {
        restrict: 'E',
-       templateUrl: 'weatherReport.html',
+       templateUrl: 'templates/weatherReport.html',
        replace: true,
        scope: {
            weatherDay: "=",
