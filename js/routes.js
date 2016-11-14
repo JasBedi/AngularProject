@@ -18,4 +18,10 @@ weatherApp.config(function ($routeProvider) {
         controller: 'forecastController'
     })
     
+    .when('/hourlyForecast', {
+        templateUrl: 'templates/hourlyForecast.htm',
+        controller: 'hourlyController'
+    })
+    
+    
 });
