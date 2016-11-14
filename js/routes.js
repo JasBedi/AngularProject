@@ -8,12 +8,12 @@ weatherApp.config(function ($routeProvider) {
         controller: 'homeController'
     })
     
-    .when('/templates/dailyForecast', {
+    .when('/dailyForecast', {
         templateUrl: 'templates/dailyForecast.htm',
         controller: 'forecastController'
     })
     
-    .when('/templates/dailyForecast:days', {
+    .when('/dailyForecast:days', {
         templateUrl: 'templates/dailyforecast.htm',
         controller: 'forecastController'
     })
